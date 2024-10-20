@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505">
  <br>
-<b>게임 플레이어 매칭 서비스</b><br>
+<b>원신 플레이어 매칭 서비스</b><br>
  프로젝트 기간: 2024.06.28 ~ 2024.11.01
 </div>
 
