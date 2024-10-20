@@ -1,12 +1,12 @@
-## Hi there 👋
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505">
+ <br>
+<b>게임 플레이어 매칭 서비스</b><br>
+ 프로젝트 기간: 2024.06.28 ~ 2024.11.01
+</div>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👨‍👨‍👧‍👧 Team List
+|![하루](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![대감](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![아아](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![시훈](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![배로](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![Wicked](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|[하루]()|[대감]()|[아아](https://github.com/fefdfea1)|[시훈](https://github.com/lee-sihun)|[배로](https://github.com/BaeRoNuI)|[Wicked](https://github.com/Preasim)|
+|디자이너|디자이너|Front-end|Front-end|Back-end|Back-end|
