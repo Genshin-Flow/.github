@@ -8,5 +8,5 @@
 ## 👨‍👨‍👧‍👧 Team List
 |![하루](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![대감](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![아아](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![시훈](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![배로](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|![Wicked](https://github.com/user-attachments/assets/af33af76-9e7f-4928-ab18-06fe324ca505)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[하루]()|[대감]()|[아아](https://github.com/fefdfea1)|[시훈](https://github.com/lee-sihun)|[배로](https://github.com/BaeRoNuI)|[Wicked](https://github.com/Preasim)|
+|[하루]|[대감]|[아아](https://github.com/fefdfea1)|[시훈](https://github.com/lee-sihun)|[배로](https://github.com/BaeRoNuI)|[Wicked](https://github.com/Preasim)|
 |디자이너|디자이너|Front-end|Front-end|Back-end|Back-end|
