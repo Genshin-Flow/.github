@@ -18,6 +18,7 @@
 |로그인/회원가입|메인페이지|
 |:---:|:---:|
 |![image](https://github.com/user-attachments/assets/3b69baee-80cf-4231-9ea3-d249403cdafb)|![image](https://github.com/user-attachments/assets/469b06fb-f470-4696-938e-986038cf0579)|
+
 |마이페이지|관리자페이지|
 |:---:|:---:|
 |![image](https://github.com/user-attachments/assets/db767882-4fb5-43a5-b5c0-4ae7868a5a9c)|![image](https://github.com/user-attachments/assets/cde419a6-d5ae-4125-88c5-995822439a06)|
