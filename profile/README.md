@@ -13,13 +13,13 @@
 
 <br>
 
-## 📂 Stacks
+## Stacks
 
 ![stacks](https://github.com/user-attachments/assets/972a92d8-3a79-432e-9cda-c6da89771275)
 
 <br>
 
-## 📸 Service info
+## Service info
 
 |로그인/회원가입|메인페이지|
 |:---:|:---:|
