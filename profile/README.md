@@ -6,7 +6,7 @@
 </div>
 
 ## Team List
-|![하루](https://github.com/user-attachments/assets/08548eb5-56cf-487b-9b24-863d7a3f33ce)|![대감](https://github.com/user-attachments/assets/c5677a12-173d-49c6-8ecd-422570a5d4ff)|![fefdfea](https://avatars.githubusercontent.com/u/46808357?v=4)|![시훈](https://avatars.githubusercontent.com/u/111095268?v=4)|![배로](https://avatars.githubusercontent.com/u/35491206?v=4)|![Wicked](https://avatars.githubusercontent.com/u/77485397?v=4)|
+|![하루](https://github.com/user-attachments/assets/19d33852-035f-45fb-8f83-5462111ca1e6)|![대감](https://github.com/user-attachments/assets/eb100113-4432-46a2-8ce3-bb9d7ae3bc9b)|![fefdfea](https://avatars.githubusercontent.com/u/46808357?v=4)|![시훈](https://avatars.githubusercontent.com/u/111095268?v=4)|![배로](https://avatars.githubusercontent.com/u/35491206?v=4)|![Wicked](https://avatars.githubusercontent.com/u/77485397?v=4)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |하루|대감|[fefdfea](https://github.com/fefdfea1)|[시훈](https://github.com/lee-sihun)|[배로](https://github.com/BaeRoNuI)|[Wicked](https://github.com/Preasim)|
 |디자이너|디자이너|Front-end|Front-end|Back-end|Back-end|
